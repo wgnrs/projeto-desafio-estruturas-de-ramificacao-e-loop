@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeto-desafio-estruturas-de-ramificacao-e-loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3705521a22d66fd218fdcaebe1885bd3955da140")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeto-desafio-estruturas-de-ramificacao-e-loop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeto-desafio-estruturas-de-ramificacao-e-loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

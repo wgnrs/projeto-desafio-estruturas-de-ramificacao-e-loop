@@ -12,3 +12,4 @@ G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estr
 G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.pdb
 G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.genruntimeconfig.cache
 G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\ref\projeto-desafio-estruturas-de-ramificacao-e-loop.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.sourcelink.json
