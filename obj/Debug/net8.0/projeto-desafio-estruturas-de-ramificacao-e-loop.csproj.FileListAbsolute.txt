@@ -1,0 +1,14 @@
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\bin\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.exe
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\bin\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.deps.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\bin\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.runtimeconfig.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\bin\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\bin\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.AssemblyInfoInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.AssemblyInfo.cs
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.csproj.CoreCompileInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\refint\projeto-desafio-estruturas-de-ramificacao-e-loop.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\projeto-desafio-estruturas-de-ramificacao-e-loop.genruntimeconfig.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto de desafio\projeto-desafio-estruturas-de-ramificacao-e-loop\obj\Debug\net8.0\ref\projeto-desafio-estruturas-de-ramificacao-e-loop.dll
